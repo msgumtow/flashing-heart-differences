@@ -11,7 +11,10 @@
  * 
  * You can drag them both by grabbing the top block.
  * 
- * On the simulator, watch the differences between how the heart animates. Then, go answer the questions in Google Classroom.
+ * On the simulator, watch the differences between how the heart animates.
+ */
+/**
+ * What were the differences between how the animation worked in the forever block, the on start, and the on button A pressed block? TYPE YOUR ANSWER HERE.
  */
 /**
  * <---Press the "A" button on the microbit simulator!
